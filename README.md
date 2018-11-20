@@ -1,4 +1,4 @@
-![KuCoin Name Service](./assets/title.jpg)
+# KuCoin Name Service
 
 > 📖🔍 Documents of the KuCoin Name Service.
 
